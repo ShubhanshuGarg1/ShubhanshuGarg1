@@ -1,9 +1,12 @@
-<h1 align="center" style="color:black;">Hi 👋, I'm Shubhanshu Garg</h1>
-<h3 align="left" style="color:black;"> Glad to see you here! </h3>
+<h1 align="center">Hi 👋, I'm Shubhanshu Garg</h1>
+<h3 align="left"> Glad to see you here! </h3>
 <p align="left">A Passionate Software developer from India who loves programming, travelling and exploring.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h4 align="left" style="color:black;"> Talking about Personal Stuffs:</h4>
+<br>
+<br>
+
+<h4 align="left"> Talking about Personal Stuffs:</h4>
 
 - 👨‍💻 I’m currently working on **web development**
 
@@ -12,6 +15,10 @@
 - 💬 Ask me about anything, **I am happy to help**
 
 - 📫 How to reach me **shubhanshugarg11@gmail.com**
+
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

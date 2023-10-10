@@ -23,7 +23,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhanshugarg1&label=Profile%20views&color=05f535&style=flat" alt="shubhanshugarg1" /> </p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhanshugarg1&show_icons=true&theme=dark&title_color=fafafa&text_color=ffffff&locale=en&layout=compact" alt="shubhanshugarg1" /></p>
-
+<br>
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhanshugarg1&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="shubhanshugarg1" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshugarg1&theme=dark" alt="shubhanshugarg1" /></p>

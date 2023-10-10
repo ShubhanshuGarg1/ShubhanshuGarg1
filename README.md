@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubhanshu Garg</h1>
-<h3 align="left"> Glad to see you here: </h3>
+<h1 align="center" color="black">Hi 👋, I'm Shubhanshu Garg</h1>
+<h3 align="left" color="black"> Glad to see you here! </h3>
 <p align="left">A Passionate Software developer from India who loves programming, travelling and exploring.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h4 align="left" color="black"> Talking about Personal Stuffs:</h4>
 
 - 👨‍💻 I’m currently working on **web development**
 
@@ -23,7 +24,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhanshugarg1&label=Profile%20views&color=05f535&style=flat" alt="shubhanshugarg1" /> </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhanshugarg1&show_icons=true&theme=dark&title_color=fafafa&text_color=ffffff&locale=en&layout=compact" alt="shubhanshugarg1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhanshugarg1&show_icons=true&theme=dark&title_color=fafafa&text_color=ffffff&locale=en&layout=compact" alt="shubhanshugarg1" /></p>
 <br>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhanshugarg1&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="shubhanshugarg1" /></p>

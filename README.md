@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhanshu Garg</h1>
 <br>
 <h3 align="left"> Glad to see you here! </h3>
-<p align="left">A Passionate Software developer from India who loves programming, travelling and exploring.</p>
+<p align="left">I am a Passionate Software developer from India who loves programming, travelling and exploring.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>

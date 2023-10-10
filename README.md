@@ -7,15 +7,15 @@
 <br>
 <br>
 
-<h4 align="left"> Talking about Personal Stuffs:</h4>
+**Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently working on **web development**
+- 👨‍💻 I’m currently working on **web development**.
 
-- 🚀 I’m also actively involved in **problem solving**
+- 🚀 I’m also actively involved in **problem solving**.
 
-- 💬 Ask me about anything, **I am happy to help**
+- 💬 Ask me about anything, **I am happy to help**.
 
-- 📫 How to reach me **shubhanshugarg11@gmail.com**
+- 📫 How to reach me: **shubhanshugarg11@gmail.com**.
 
 <br>
 <br>
